@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m currently learning **Unity and Blender**d
+- 🌱 I’m currently learning **Unity and Blender**
 
 - 👨‍💻 All of my projects are available at [linktr.ee/burak__arslan](https://linktr.ee/burak__arslan)
 
