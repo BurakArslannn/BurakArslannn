@@ -21,7 +21,12 @@
 </a>
 
 
+<br/>  
 
+![Profile views counter](https://komarev.com/ghpvc/?username=BurakArslannn&&style=flat-square)  
+  
+
+<br/>  
   
 
 
@@ -76,13 +81,6 @@
 <br/>  
 
   
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=BurakArslannn&&style=flat-square)  
-  
-
-<br/>  
 
 
 <br />
