@@ -19,9 +19,7 @@
 <a href="https://burak-arslan.itch.io/" target="_blank">
 <img src=https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white=for-the-badge&logo=netlify&logoColor=white=for-the-badge&logo=linktree&logoColor=white=for-the-badge&logo=linkedin&logoColor=greenn alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:burakarslan789@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white=for-the-badge&logo=netlify&logoColor=white=for-the-badge&logo=linktree&logoColor=white=for-the-badge&logo=linkedin&logoColor=greenn alt=linkedin style="margin-bottom: 5px;" />
-</a>
+
 
 
   
